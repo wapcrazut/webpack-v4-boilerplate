@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "allowJs": true,
+        "strict": true,
+        "module": "es6",
+        "target": "es5",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitReturns": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
