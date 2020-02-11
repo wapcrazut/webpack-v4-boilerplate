@@ -1,4 +1,4 @@
-# Webpack 4 + Typescript Boilerplate
+# Webpack 4 + TypeScript Boilerplate
 
 Pre-configured Webpack 4 boilerplate using Typescript and additional loaders for fast development. 
 
